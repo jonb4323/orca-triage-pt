@@ -1,0 +1,240 @@
+[
+  {
+    "Title": "Default Branch Should Require New Code Changes After Approval To Be Re-Approved",
+    "CreatedAt": "2026-04-04T17:40:12+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 3.0,
+    "LastSeen": "2024-02-28T16:59:44+00:00",
+    "AlertId": "orca-29401026",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "JavaScript Source Map File",
+    "CreatedAt": "2026-04-01T01:37:37+00:00",
+    "Category": "Data at risk",
+    "OrcaScore": 4.3,
+    "LastSeen": "2026-03-12T05:18:02+00:00",
+    "AlertId": "orca-52552835",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Potential SQL Injection via Untrusted Input in Raw SQL Queries",
+    "CreatedAt": "2025-04-17T15:48:08+00:00",
+    "Category": "Source code vulnerabilities",
+    "OrcaScore": 8.3,
+    "LastSeen": "2026-12-25T18:45:23+00:00",
+    "AlertId": "orca-81757596",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "AWS IAM-Resource Unique ID",
+    "CreatedAt": "2024-04-16T15:15:52+00:00",
+    "Category": "Data at risk",
+    "OrcaScore": 1.0,
+    "LastSeen": "2026-01-23T04:05:06+00:00",
+    "AlertId": "orca-94328752",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Generic High Entropy Secret",
+    "CreatedAt": "2025-05-21T17:12:56+00:00",
+    "Category": "Data at risk",
+    "OrcaScore": 2.1,
+    "LastSeen": "2024-01-03T17:00:36+00:00",
+    "AlertId": "orca-42895911",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "AWS IAM-Access Key ID",
+    "CreatedAt": "2025-04-17T18:06:41+00:00",
+    "Category": "Data at risk",
+    "OrcaScore": 1.2,
+    "LastSeen": "2024-05-31T16:28:28+00:00",
+    "AlertId": "orca-44649926",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "JSON Web Token (JWT)",
+    "CreatedAt": "2024-06-11T21:51:22+00:00",
+    "Category": "Data at risk",
+    "OrcaScore": 1.8,
+    "LastSeen": "2026-09-10T23:13:01+00:00",
+    "AlertId": "orca-22683218",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Default Branch Should Restrict Who Can Dismiss Reviews",
+    "CreatedAt": "2025-02-14T13:14:16+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 3.0,
+    "LastSeen": "2024-12-20T02:28:25+00:00",
+    "AlertId": "orca-48788616",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Generic Base Auth URL",
+    "CreatedAt": "2025-06-05T01:31:01+00:00",
+    "Category": "Data at risk",
+    "OrcaScore": 5.6,
+    "LastSeen": "2024-01-12T15:33:32+00:00",
+    "AlertId": "orca-76104722",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Default Branch Should Require All Conversations To Be Resolved Before Merge",
+    "CreatedAt": "2024-06-08T22:43:50+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 3.0,
+    "LastSeen": "2026-05-16T20:12:43+00:00",
+    "AlertId": "orca-38325632",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "SQL Injection via Untrusted Input in Raw SQL Queries",
+    "CreatedAt": "2026-11-23T15:30:23+00:00",
+    "Category": "Source code vulnerabilities",
+    "OrcaScore": 8.3,
+    "LastSeen": "2024-09-20T18:37:06+00:00",
+    "AlertId": "orca-43502569",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Default Branch Should Require Linear History",
+    "CreatedAt": "2024-08-16T19:59:41+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 5.0,
+    "LastSeen": "2026-03-02T13:53:21+00:00",
+    "AlertId": "orca-69628178",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Default Branch Should Require All Commits To Be Signed",
+    "CreatedAt": "2025-06-21T06:23:08+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 3.0,
+    "LastSeen": "2025-01-14T17:12:25+00:00",
+    "AlertId": "orca-74407141",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Repository Should Have Fewer Than Three Admins",
+    "CreatedAt": "2025-05-25T23:27:25+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 3.0,
+    "LastSeen": "2024-09-16T13:03:33+00:00",
+    "AlertId": "orca-59515876",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Default Branch Should Require Code Review By At Least Two Reviewers",
+    "CreatedAt": "2024-05-28T20:29:54+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 5.0,
+    "LastSeen": "2026-10-27T09:40:12+00:00",
+    "AlertId": "orca-33853361",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Prevent Regular Expression Denial of Service in User Input Validation",
+    "CreatedAt": "2024-07-01T07:47:28+00:00",
+    "Category": "Source code vulnerabilities",
+    "OrcaScore": 5.5,
+    "LastSeen": "2024-11-10T14:34:20+00:00",
+    "AlertId": "orca-64135675",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  },
+  {
+    "Title": "Webhooks Should Be Configured With A Secret",
+    "CreatedAt": "2026-10-16T12:38:41+00:00",
+    "Category": "Best practices",
+    "OrcaScore": 3.0,
+    "LastSeen": "2026-01-13T18:22:07+00:00",
+    "AlertId": "orca-26907348",
+    "CloudAccount": {
+      "Name": "org-52p4co2l/project-tqxfg40u (Project: org-52p4co2l/project-tqxfg40u)"
+    },
+    "Inventory": {
+      "Name": "org-52p4co2l/project-tqxfg40u"
+    }
+  }
+]
